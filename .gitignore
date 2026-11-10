@@ -1,0 +1,11 @@
+backups/
+state/
+*.log
+changes-log.md
+*.reg
+*.exe
+*.dll
+*.sys
+*.msi
+*.zip
+.env
