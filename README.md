@@ -120,6 +120,7 @@ See [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for a bottom gap, two doc
 ## Contributors
 
 - **Samuel-Fx-1** — maintainer.
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ## Built with
 
