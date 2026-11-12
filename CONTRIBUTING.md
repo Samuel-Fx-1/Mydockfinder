@@ -16,6 +16,13 @@ Anyone can contribute through forks and pull requests. Samuel-Fx-1 is the mainta
 4. Parse every `.ps1` file with the PowerShell parser.
 5. Open a pull request that describes the change and how you tested it.
 
+## AI assistance
+
+- Contributors may use AI tools, such as Claude, opencode, or Freebuff, to help write changes.
+- The person who submits the pull request is responsible for every line and must have tested it on Windows 11.
+- If an AI tool wrote a significant part of a commit, end the commit message with a line in this form: `Assisted-by: <tool name>`
+- AI tools must not be used as Git author names, author emails, or co-authors.
+
 ## Testing
 
 Run scripts with `-WhatIf` first. In the pull request, state the Windows version you tested on.
